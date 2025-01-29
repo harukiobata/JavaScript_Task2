@@ -1,0 +1,32 @@
+@charset "utf-8";
+.MathDisplay {
+    color: aliceblue;
+    background-color: black;
+    height: 50px;
+    width: 320px;
+    font-size: 25px;
+    align-content: center;
+    text-align: right;
+}
+button {
+    width: 75px;
+    height: 50px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.BigButton {
+    width: 155px;
+    background-color: aquamarine;
+}
+#Ac {
+    position: relative;
+    left: 3px;
+}
+.Kigou {
+    background-color: aqua;
+}
+button:hover {
+    border: 1px solid blueviolet;
+    opacity: 0.8;
+}
